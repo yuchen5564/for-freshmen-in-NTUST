@@ -72,7 +72,7 @@ _(很多觀點偏主觀，小心服用)_
 
 * &#x20;Yu-chen Kuo
   * [About Me](https://www.merlinkuo.tw)
-  * [Contact me (Email)](mailto:yuchen@merlinkuo.tw?subject=台科新生懶人包意見回饋)
+  * [Contact me (Email)](mailto:me@merlinkuo.tw)
 
 {% hint style="info" %}
 歡迎透過email與我們分享你覺得很重要但沒有寫到的資訊，也歡迎許願！
