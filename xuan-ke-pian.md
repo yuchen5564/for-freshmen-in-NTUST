@@ -162,7 +162,7 @@ graph LR;
 
 * [選課須知與時程](https://www.academic.ntust.edu.tw/p/412-1048-8580.php?Lang=zh-tw)：查詢每學期選課事務相關的時程
 * [跨校選課看這邊](https://www.dcard.tw/f/ntust/p/239235745)
-* [**各系畢業所需學分**](https://www.academic.ntust.edu.tw/var/file/48/1048/img/2570/909564337.pdf)
+* [**各系畢業所需學分**](https://academic.ntust.edu.tw/var/file/48/1048/img/2570/657854074.pdf)
 
 ## 小撇步
 
