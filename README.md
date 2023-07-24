@@ -72,7 +72,7 @@ _(很多觀點偏主觀，小心服用)_
   * [About Me](https://www.merlinkuo.tw)
   * [Contact me (Email)](mailto:me@merlinkuo.tw)
 * Min-Feng Chen
-  * [Contact me (Email)](http://127.0.0.1:5000/u/7dGE4aTAYGQgTNpVjiapkAZUB9V2)
+  * [Contact me (Email)](mailto:twchenfeng@gmail.com)
 
 {% hint style="info" %}
 歡迎透過email與我們分享你覺得很重要但沒有寫到的資訊，也歡迎許願！
