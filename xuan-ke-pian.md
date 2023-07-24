@@ -4,7 +4,7 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 
 # 📖 選課篇
 
-## 各前言
+## 前言
 
 選課系統畢竟是給所有人用的，所以不會太難。
 
@@ -20,6 +20,7 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 
 ![](https://i.imgur.com/rUFWR4m.png)
 
+* 畢業門檻：3 + 3學分
 * 上學期修A，下學期就修B，反之亦然
 * A區四選一修即可
 
@@ -46,22 +47,38 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 
 ### 英文課
 
+* 採兩種分組方式
+  * 分級會考：學校會擇日舉辦能力檢定考試，結果將影響分級結果
+  * 申請免考：需要有官方英檢成績且達<mark style="color:red;">**CEFR B1以上**</mark>，會根據檢定的CEFR等級做分組
 * 初階中階模組的必修課學校會幫你排好老師，不用選課(會直接出現在必修選課表上面)
-* 若是沒有申請免考分級會考，也沒有考分級會考的話將無法分級，就無法修任何一門英文課
-* 其他多元必修只能選擇同模組，或是更高等級模組的課
-* 不同模組請參考
+
+{% hint style="danger" %}
+若是沒有申請免考分級會考，也沒有考分級會考的話將無法分級，就無法修任何一門英文課
+{% endhint %}
+
+{% hint style="info" %}
+英文修讀流程及分組辦法請參照下圖
+{% endhint %}
 
 <figure><img src=".gitbook/assets/NTUST English Level.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/NTUST English Courses.jpg" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+申請免考的分組參照下圖CEFR對應指標
+{% endhint %}
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>各英檢的對應英文等級等級</p></figcaption></figure>
 
+{% hint style="danger" %}
+其他多元必修只能選擇同等級或更高等級模組的課程
+{% endhint %}
+
+<figure><img src=".gitbook/assets/NTUST English Courses.jpg" alt=""><figcaption></figcaption></figure>
+
 ### 通識課
 
-* 共有六個向度
-
-
+* 共有六個向度 (A\~F)
+* 畢業門檻：15學分
+* <mark style="color:red;">**至少修4個向度**</mark>
 
 ## 學分限制
 
