@@ -2,9 +2,9 @@
 description: 選課真的不難...等系統開了之後就知道要怎麼操作了
 ---
 
-# 選課篇
+# 📖 選課篇
 
-## 前言
+## 各前言
 
 選課系統畢竟是給所有人用的，所以不會太難。
 
@@ -16,14 +16,14 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 大一記得都要選體育課跟國文課。
 {% endhint %}
 
-### 關於國文課
+### 國文課
 
 ![](https://i.imgur.com/rUFWR4m.png)
 
 * 上學期修A，下學期就修B，反之亦然
 * A區四選一修即可
 
-### 關於體育課
+### 體育課
 
 體育有**各系各年級**的時間分配表，在課程查詢系統中可以下載
 
@@ -31,7 +31,7 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 * 只能選你們班有開的體育
 * **絕對不會跟系必修撞課！**
 
-![](https://i.imgur.com/yeGPbPa.png)
+![體育課程時間表查詢方式](https://i.imgur.com/yeGPbPa.png)
 
 {% hint style="warning" %}
 **【沒選到喜歡的/沒選到 體育課or國文課怎麼辦】**
@@ -44,12 +44,24 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 * 如果老師不願意給，那至少你還有一門課可以上
 {% endhint %}
 
-### 關於英文課
+### 英文課
 
-* 太複雜了，等有空在開一篇更新(\~溜
-  * (今年有改制度，所以學長也還在熟悉QQ)
-* 大致把握一個重點，初階中階模組的必修課學校會幫你排好老師，不用選課(會直接出現在必修選課表上面)
-* 可以先參考[語言中心 英語課程(111起適用)](https://lc.ntust.edu.tw/p/412-1070-10776.php?Lang=zh-tw)
+* 初階中階模組的必修課學校會幫你排好老師，不用選課(會直接出現在必修選課表上面)
+* 若是沒有申請免考分級會考，也沒有考分級會考的話將無法分級，就無法修任何一門英文課
+* 其他多元必修只能選擇同模組，或是更高等級模組的課
+* 不同模組請參考
+
+<figure><img src=".gitbook/assets/NTUST English Level.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/NTUST English Courses.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>各英檢的對應英文等級等級</p></figcaption></figure>
+
+### 通識課
+
+* 共有六個向度
+
+
 
 ## 學分限制
 
@@ -131,7 +143,7 @@ graph LR;
 
 ## 其他資料
 
-* [111時程表](https://www.academic.ntust.edu.tw/var/file/48/1048/img/2563/130547589.pdf)
+* [選課須知與時程](https://www.academic.ntust.edu.tw/p/412-1048-8580.php?Lang=zh-tw)：查詢每學期選課事務相關的時程
 * [跨校選課看這邊](https://www.dcard.tw/f/ntust/p/239235745)
 * [**各系畢業所需學分**](https://www.academic.ntust.edu.tw/var/file/48/1048/img/2570/909564337.pdf)
 

@@ -1,10 +1,14 @@
-# 平板篇
+# 💻 平板篇
 
 {% hint style="warning" %}
 **大家都會問有關於平板的事，統一回答平板不是必備，但是真的很方便，還可以省買書的錢，基本上大家都有，但是少數沒有的人也是可以過得好好的。**
+
+**(當然，如果你有沒有買書都沒差的話，那買不買也沒太大差別了w)**
 {% endhint %}
 
 品牌的話，平板只有[iPad](https://www.apple.com/tw/shop/buy-ipad/ipad-pro)跟others，最後都是要買[iPad](https://www.apple.com/tw/shop/buy-ipad/ipad-pro)的幹嘛拐彎抹角，[BTS](https://www.apple.com/tw-edu/store)那麼香。
+
+2023/07/24：現在BTS買iPad Air或是iPad Pro再送Apple Pencil 2，近來最香，只到10/2。
 
 ## 在筆電與平板之間抉擇
 
