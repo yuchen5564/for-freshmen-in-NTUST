@@ -66,7 +66,7 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 申請免考的分組參照下圖CEFR對應指標
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>各英檢的對應英文等級等級</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>各英檢的對應英文等級等級</p></figcaption></figure>
 
 {% hint style="danger" %}
 其他多元必修只能選擇同等級或更高等級模組的課程
