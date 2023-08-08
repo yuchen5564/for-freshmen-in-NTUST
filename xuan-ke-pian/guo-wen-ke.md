@@ -1,6 +1,6 @@
 # 國文課
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>112學年標準</p></figcaption></figure>
 
 ![](https://i.imgur.com/rUFWR4m.png)
 

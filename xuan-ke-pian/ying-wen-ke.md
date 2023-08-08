@@ -1,6 +1,6 @@
 # 英文課
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>112學年標準</p></figcaption></figure>
 
 * 採兩種分組方式
   * 分級會考：學校會擇日舉辦能力檢定考試，結果將影響分級結果
@@ -23,10 +23,16 @@
 申請免考的分組參照下圖CEFR對應指標
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>各英檢的對應英文等級等級</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>各英檢的對應英文等級等級</p></figcaption></figure>
 
 {% hint style="danger" %}
 其他多元必修只能選擇同等級或更高等級模組的課程
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/NTUST English Courses.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+不值得退掉系必修去選英文課！
+
+因為你可能兩失！
+{% endhint %}

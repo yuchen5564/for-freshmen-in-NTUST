@@ -1,11 +1,11 @@
 # 體育課
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>112學年標準</p></figcaption></figure>
 
 體育有**各系各年級**的時間分配表，在課程查詢系統中可以下載
 
 * 大一體育通常是在第9、10節
-* 只能選你們班有開的體育
+* 只能選你們班有開的體育，<mark style="color:red;">體育老師通常不給加簽其他時段 (除非有特殊原因)</mark>
 * **絕對不會跟系必修撞課！**
 
 ![體育課程時間表查詢方式](https://i.imgur.com/yeGPbPa.png)

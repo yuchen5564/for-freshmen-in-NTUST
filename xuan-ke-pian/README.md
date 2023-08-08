@@ -22,7 +22,7 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 * 每個學年度入學的規定不一定會相同，<mark style="color:red;">在你開始選課前你應該要看過</mark>
 * 範例：112學年入學 <mark style="color:red;">"校定"</mark> 必修
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>112學年標準</p></figcaption></figure>
 
 ## 學分限制
 
@@ -40,7 +40,7 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 ## 選課系統
 
 * 選課期間，系統上的人數會是顯示將這門課加入志願序的人數，可以利用這個來調整你的志願序
-* **同課名、同時間的課就是要你選老師**
+* <mark style="color:red;">**同課名、同時間的課就是要你選老師**</mark>
 * 有些通識課在初選(填志願階段)有**班級限制**，你可以先找到你們班級優先選的課，這樣一定會抽到通識課
 * 通識課在整個初選階段，**上限3門**，但在全校加退選時就沒有這個限制了
 * 如果課程查詢系統中，**選課總人數和備註欄裡面的上限人數相同**，代表那門課已經被選滿了，就不用再把他加進去志願序了

@@ -6,6 +6,7 @@
   * [英文課](xuan-ke-pian/ying-wen-ke.md)
   * [通識課](xuan-ke-pian/tong-shi-ke.md)
   * [體育課](xuan-ke-pian/ti-yu-ke.md)
+  * [系上必修](xuan-ke-pian/xi-shang-bi-xiu.md)
 * [☕ 生活篇](sheng-huo-pian.md)
 * [🏨 住宿篇](zhu-su-pian.md)
 * [👥 社團篇](she-tuan-pian.md)
