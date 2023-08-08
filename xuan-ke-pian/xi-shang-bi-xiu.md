@@ -1,6 +1,6 @@
 # 系上必修
 
-* 每學期都會有固定的系上必修，如果在班級課表內看到有必修(非多選幾)，那這門課會直接進入你的課表，不用選
+* 每學期都會有固定的系上必修，如果在班級課表內看到有必修(非多選幾)，那這門課會直接進入你的課表，不用選 <mark style="color:red;">(如果同一課名有很多老師開課，那還是要選喔！)</mark>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

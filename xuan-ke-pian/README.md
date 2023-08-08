@@ -55,6 +55,10 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 * [志願序抽選規則](https://www.academic.ntust.edu.tw/var/file/48/1048/img/2563/544158721.ppsx)
   * 有點複雜，但如果看懂他是如何抽選的還蠻有用的
 
+{% hint style="warning" %}
+同一個時段可以放很多課進去志願序裡面，不用擔心重複中籤
+{% endhint %}
+
 ## 初選階段
 
 * 比運氣環節。
