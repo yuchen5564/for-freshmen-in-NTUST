@@ -1,7 +1,11 @@
 # Table of contents
 
 * [🏠 首頁](README.md)
-* [📖 選課篇](xuan-ke-pian.md)
+* [📖 選課篇](xuan-ke-pian/README.md)
+  * [國文課](xuan-ke-pian/guo-wen-ke.md)
+  * [英文課](xuan-ke-pian/ying-wen-ke.md)
+  * [通識課](xuan-ke-pian/tong-shi-ke.md)
+  * [體育課](xuan-ke-pian/ti-yu-ke.md)
 * [☕ 生活篇](sheng-huo-pian.md)
 * [🏨 住宿篇](zhu-su-pian.md)
 * [👥 社團篇](she-tuan-pian.md)

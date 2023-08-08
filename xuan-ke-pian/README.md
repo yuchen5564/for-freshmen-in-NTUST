@@ -16,69 +16,13 @@ description: 選課真的不難...等系統開了之後就知道要怎麼操作�
 大一記得都要選體育課跟國文課。
 {% endhint %}
 
-### 國文課
+### 修課相關規定
 
-![](https://i.imgur.com/rUFWR4m.png)
+* [連結](https://www.academic.ntust.edu.tw/p/412-1048-8230.php?Lang=zh-tw)
+* 每個學年度入學的規定不一定會相同，<mark style="color:red;">在你開始選課前你應該要看過</mark>
+* 範例：112學年入學 <mark style="color:red;">"校定"</mark> 必修
 
-* 畢業門檻：3 + 3學分
-* 上學期修A，下學期就修B，反之亦然
-* A區四選一修即可
-
-### 體育課
-
-體育有**各系各年級**的時間分配表，在課程查詢系統中可以下載
-
-* 大一體育通常是在第9、10節
-* 只能選你們班有開的體育
-* **絕對不會跟系必修撞課！**
-
-![體育課程時間表查詢方式](https://i.imgur.com/yeGPbPa.png)
-
-{% hint style="warning" %}
-**【沒選到喜歡的/沒選到 體育課or國文課怎麼辦】**
-
-> 教你一招，**騎驢找馬**！ :horse: :horse:
-
-先不要急著退選已經選到的課(沒選到的先去選一門還沒滿的課)，先去問想上的那門課的老師願不願意讓你加簽
-
-* 如果老師願意給加簽，那再來把原本那門課退掉
-* 如果老師不願意給，那至少你還有一門課可以上
-{% endhint %}
-
-### 英文課
-
-* 採兩種分組方式
-  * 分級會考：學校會擇日舉辦能力檢定考試，結果將影響分級結果
-  * 申請免考：需要有官方英檢成績且達<mark style="color:red;">**CEFR B1以上**</mark>，會根據檢定的CEFR等級做分組
-* 初階中階模組的必修課學校會幫你排好老師，不用選課(會直接出現在必修選課表上面)
-
-{% hint style="danger" %}
-若是沒有申請免考分級會考，也沒有考分級會考的話將無法分級，就無法修任何一門英文課
-{% endhint %}
-
-{% hint style="info" %}
-英文修讀流程及分組辦法請參照下圖
-{% endhint %}
-
-<figure><img src=".gitbook/assets/NTUST English Level.jpg" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-申請免考的分組參照下圖CEFR對應指標
-{% endhint %}
-
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>各英檢的對應英文等級等級</p></figcaption></figure>
-
-{% hint style="danger" %}
-其他多元必修只能選擇同等級或更高等級模組的課程
-{% endhint %}
-
-<figure><img src=".gitbook/assets/NTUST English Courses.jpg" alt=""><figcaption></figcaption></figure>
-
-### 通識課
-
-* 共有六個向度 (A\~F)
-* 畢業門檻：15學分
-* <mark style="color:red;">**至少修4個向度**</mark>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 學分限制
 

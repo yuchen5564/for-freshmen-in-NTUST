@@ -40,7 +40,7 @@ description: 各式各樣ㄉ帳號，讓你頭昏腦脹~
 
 * 可以設定轉寄到妳常用的信箱
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 手機收信
 
