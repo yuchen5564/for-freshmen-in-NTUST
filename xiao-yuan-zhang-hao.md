@@ -73,10 +73,10 @@ description: 各式各樣ㄉ帳號，讓你頭昏腦脹~
 
 * Google Drive (只有8G)
 
-## Microsoft Office365
+## Microsoft Office 365
 
 * 帳號：{學號}@ms.ntust.edu.tw
-* 預設密碼：與電子郵件系統相同
+* 預設密碼：與電子郵件系統 "**預設密碼"** 相同
 
 ### 常用功能
 
